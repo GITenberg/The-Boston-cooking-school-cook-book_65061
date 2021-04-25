@@ -1,0 +1,27 @@
+_repo: The-Boston-cooking-school-cook-book_65061
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Farmer, Fannie Merritt
+    alias: Farmer, Fannie
+    birthdate: 1857
+    deathdate: 1915
+    gutenberg_agent_id: '53166'
+    url: http://www.gutenberg.org/2009/agents/53166
+    wikipedia: https://en.wikipedia.org/wiki/Fannie_Farmer
+description: ''
+gutenberg_issued: '2021-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65061'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Cooking'
+- !lcsh 'Cooking, American'
+- GITenberg
+title: The Boston cooking-school cook book
+url: http://www.gutenberg.org/ebooks/65061

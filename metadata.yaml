@@ -1,5 +1,8 @@
 _repo: The-Boston-cooking-school-cook-book_65061
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65061-h/images/cover.jpg
 creator:
   author:
     agent_name: Farmer, Fannie Merritt
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53166
     wikipedia: https://en.wikipedia.org/wiki/Fannie_Farmer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65061#The-Boston-cooking-school-cook-book
 gutenberg_issued: '2021-04-11'
 gutenberg_type: Text
 identifiers:
